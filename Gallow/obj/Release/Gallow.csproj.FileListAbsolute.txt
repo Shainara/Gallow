@@ -1,0 +1,10 @@
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\bin\Release\Gallow.exe.config
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\bin\Release\Gallow.exe
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\bin\Release\Gallow.pdb
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\obj\Release\Gallow.csprojAssemblyReference.cache
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\obj\Release\Gallow.Form1.resources
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\obj\Release\Gallow.Properties.Resources.resources
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\obj\Release\Gallow.csproj.GenerateResource.cache
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\obj\Release\Gallow.csproj.CoreCompileInputs.cache
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\obj\Release\Gallow.exe
+D:\Учеба\CS\CS-1\Lesson-7\Task-7\Gallow\obj\Release\Gallow.pdb
